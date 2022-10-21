@@ -1,1 +1,1 @@
-# Selenium Demo [![Build status](https://ci.appveyor.com/api/projects/status/lmw6qx3wkmedk8an?svg=true)](https://ci.appveyor.com/project/Ekaterina/testapi-jrjmf)
+# Selenium Demo [![Build status](https://ci.appveyor.com/api/projects/status/gjg0q6f0s5orah9u?svg=true)](https://ci.appveyor.com/project/Ekaterina/selenium)
